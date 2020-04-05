@@ -82,6 +82,11 @@
     <Content Include="Animations\LeagueOfLegends\Champions\Ahri\w_cast.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Animations\LeagueOfLegends\Champions\Jax\e_cast_loop.txt" />
+    <Content Include="Animations\LeagueOfLegends\Champions\Jax\e_recast_end.txt" />
+    <Content Include="Animations\LeagueOfLegends\Champions\Jax\q_cast.txt" />
+    <Content Include="Animations\LeagueOfLegends\Champions\Jax\w_cast_end.txt" />
+    <Content Include="Animations\LeagueOfLegends\Champions\Jax\w_cast_loop.txt" />
     <Content Include="Animations\LeagueOfLegends\Items\FarsightAlteration\activation.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
